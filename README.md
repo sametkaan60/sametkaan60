@@ -5,7 +5,9 @@
 
 ---
 
-# 👋 Hello, I'm Samet Kaan Bayram
+# 👋 Hello, I'm Samet Kaan Bayram | 👋 Merhaba, Ben Samet Kaan Bayram
+
+## English Version
 
 💻 Software Developer  
 🎮 Game Developer  
@@ -14,20 +16,39 @@
 
 I build scalable digital systems by combining **engineering precision with creative design**.
 
+## Türkçe Versiyonu
+
+💻 Yazılım Geliştirici  
+🎮 Oyun Geliştirici  
+🎨 UI/UX & Grafik Tasarımcı  
+🏭 Endüstriyel + Otomasyon Sistemleri Üreticisi  
+
+**Mühendislik hassasiyetini yaratıcı tasarımla** birleştirerek ölçeklenebilir dijital sistemler kuruyorum.
+
 ---
 
-# 🚀 About
+# 🚀 About | Hakkımda
+
+## English Info
 
 > Software • Game Development • Digital Production • Automation
 
 Vision:  
 To create international-level digital products and intelligent systems.
 
+## Türkçe Bilgi
+
+> Yazılım • Oyun Geliştirme • Dijital Üretim • Otomasyon
+
+Vizyon:  
+Uluslararası düzeyde dijital ürünler ve akıllı sistemler oluşturmak.
+
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tech Stack | Teknoloji Yığını
 
-### 💻 Programming
+### 💻 Programming | Programlama
+
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -36,16 +57,18 @@ To create international-level digital products and intelligent systems.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎮 Game Development
+### 🎮 Game Development | Oyun Geliştirme
+
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-### 🎨 Design
+### 🎨 Design | Tasarım
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats | İstatistikler
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sametkaan60&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -54,17 +77,17 @@ To create international-level digital products and intelligent systems.
 
 ---
 
-# 📌 Current Focus
+# 📌 Current Focus | Şu Anki Odak Noktası
 
-🚧 CityDeck – Card Based City Builder  
-🖥 Desktop Cafe Automation System  
-📦 Real-time Warehouse Tracking System  
-🤖 Raspberry Pi Local AI Agent  
-💾 Modern Magnetic Storage Projects  
+- 🚧 CityDeck – Card Based City Builder | Kart Tabanlı Şehir İnşa Etme Oyunu  
+- 🖥 Desktop Cafe Automation System | Masaüstü Kafe Otomasyon Sistemi  
+- 📦 Real-time Warehouse Tracking System | Gerçek Zamanlı Depo Takip Sistemi  
+- 🤖 Raspberry Pi Local AI Agent | Raspberry Pi Yerel Yapay Zeka Ajanı  
+- 💾 Modern Magnetic Storage Projects | Modern Manyetik Depolama Projeleri  
 
 ---
 
-# 🌍 Connect With Me
+# 🌍 Connect With Me | Benimle İletişime Geçin
 
 <p align="center">
   <a href="https://github.com/sametkaan60">
@@ -80,6 +103,6 @@ To create international-level digital products and intelligent systems.
 
 ---
 
-# ⚡ Motto
+# ⚡ Motto | Slogan
 
-> Code. Design. Build. Scale.
+> Code. Design. Build. Scale. | Kodla. Tasarla. İnşa Et. Ölçeklendir.
