@@ -16,7 +16,7 @@ I build scalable digital systems by combining **engineering precision with creat
 
 ---
 
-# 🚀 About BAYRAMOĞLU Digital
+# 🚀 About
 
 > Software • Game Development • Digital Production • Automation
 
@@ -48,8 +48,8 @@ To create international-level digital products and intelligent systems.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sametkaan60&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sametkaan60&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
