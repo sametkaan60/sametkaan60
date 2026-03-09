@@ -12,7 +12,7 @@
 
 ---
 
-# <a name="türkçe"></a> �🇷 Türkçe
+# <a name="türkçe"></a> 🇹🇷 Türkçe
 
 ## 👋 Merhaba, Ben Samet Kaan Bayram
 
