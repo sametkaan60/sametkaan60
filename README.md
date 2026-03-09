@@ -5,18 +5,16 @@
 
 ---
 
-# 👋 Hello, I'm Samet Kaan Bayram | 👋 Merhaba, Ben Samet Kaan Bayram
+<p align="center">
+  <a href="#türkçe">Türkçe</a> • 
+  <a href="#english">English</a>
+</p>
 
-## English Version
+---
 
-💻 Software Developer  
-🎮 Game Developer  
-🎨 UI/UX & Graphic Designer  
-🏭 Industrial + Automation Systems Builder  
+# <a name="türkçe"></a> �🇷 Türkçe
 
-I build scalable digital systems by combining **engineering precision with creative design**.
-
-## Türkçe Versiyonu
+## 👋 Merhaba, Ben Samet Kaan Bayram
 
 💻 Yazılım Geliştirici  
 🎮 Oyun Geliştirici  
@@ -25,46 +23,68 @@ I build scalable digital systems by combining **engineering precision with creat
 
 **Mühendislik hassasiyetini yaratıcı tasarımla** birleştirerek ölçeklenebilir dijital sistemler kuruyorum.
 
----
-
-# 🚀 About | Hakkımda
-
-## English Info
-
-> Software • Game Development • Digital Production • Automation
-
-Vision:  
-To create international-level digital products and intelligent systems.
-
-## Türkçe Bilgi
+### 🚀 Hakkımda
 
 > Yazılım • Oyun Geliştirme • Dijital Üretim • Otomasyon
 
-Vizyon:  
+**Vizyon:**  
 Uluslararası düzeyde dijital ürünler ve akıllı sistemler oluşturmak.
+
+### 🛠 Teknoloji Yığını
+
+- **Programlama:** C#, Java, C, Assembly, HTML5, CSS3, JavaScript
+- **Oyun Geliştirme:** Unity
+- **Tasarım:** Figma, Adobe Creative Cloud
+
+### 📌 Şu Anki Odak Noktası
+
+- 🚧 **CityDeck** – Kart Tabanlı Şehir İnşa Etme Oyunu  
+- 🖥 **Masaüstü Kafe Otomasyon Sistemi**  
+- 📦 **Gerçek Zamanlı Depo Takip Sistemi**  
+- 🤖 **Raspberry Pi Yerel Yapay Zeka Ajanı**  
+- 💾 **Modern Manyetik Depolama Projeleri**  
+
+### ⚡ Slogan
+
+> Kodla. Tasarla. İnşa Et. Ölçeklendir.
 
 ---
 
-# 🛠 Tech Stack | Teknoloji Yığını
+# <a name="english"></a> 🇺🇸 English
 
-### 💻 Programming | Programlama
+## 👋 Hello, I'm Samet Kaan Bayram
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+💻 Software Developer  
+🎮 Game Developer  
+🎨 UI/UX & Graphic Designer  
+🏭 Industrial + Automation Systems Builder  
 
-### 🎮 Game Development | Oyun Geliştirme
+I build scalable digital systems by combining **engineering precision with creative design**.
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+### 🚀 About
 
-### 🎨 Design | Tasarım
+> Software • Game Development • Digital Production • Automation
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+**Vision:**  
+To create international-level digital products and intelligent systems.
+
+### 🛠 Tech Stack
+
+- **Programming:** C#, Java, C, Assembly, HTML5, CSS3, JavaScript
+- **Game Development:** Unity
+- **Design:** Figma, Adobe Creative Cloud
+
+### 📌 Current Focus
+
+- 🚧 **CityDeck** – Card Based City Builder  
+- 🖥 **Desktop Cafe Automation System**  
+- 📦 **Real-time Warehouse Tracking System**  
+- 🤖 **Raspberry Pi Local AI Agent**  
+- 💾 **Modern Magnetic Storage Projects**  
+
+### ⚡ Motto
+
+> Code. Design. Build. Scale.
 
 ---
 
@@ -74,16 +94,6 @@ Uluslararası düzeyde dijital ürünler ve akıllı sistemler oluşturmak.
   <img src="https://github-readme-stats.vercel.app/api?username=sametkaan60&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sametkaan60&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
----
-
-# 📌 Current Focus | Şu Anki Odak Noktası
-
-- 🚧 CityDeck – Card Based City Builder | Kart Tabanlı Şehir İnşa Etme Oyunu  
-- 🖥 Desktop Cafe Automation System | Masaüstü Kafe Otomasyon Sistemi  
-- 📦 Real-time Warehouse Tracking System | Gerçek Zamanlı Depo Takip Sistemi  
-- 🤖 Raspberry Pi Local AI Agent | Raspberry Pi Yerel Yapay Zeka Ajanı  
-- 💾 Modern Magnetic Storage Projects | Modern Manyetik Depolama Projeleri  
 
 ---
 
@@ -100,9 +110,3 @@ Uluslararası düzeyde dijital ürünler ve akıllı sistemler oluşturmak.
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
----
-
-# ⚡ Motto | Slogan
-
-> Code. Design. Build. Scale. | Kodla. Tasarla. İnşa Et. Ölçeklendir.
